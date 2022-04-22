@@ -43,7 +43,7 @@ As the overall data, the design specification for all lots together does meet th
 ![Lot3](https://github.com/Monsaiaung/MechaCar_Statistical_Analysis/blob/79cf4461214ba1b3e82ce1e2f8c5da7cb07e8ed3/Images/8.png)
 
 ### Summary
-
+and 
 - The p-value of all lot has a value of 0.06 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
 - The p-value of lot 1 has a value of 1 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
 - The p-value of lot 2 has a value of 0.61 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
@@ -52,11 +52,13 @@ As the overall data, the design specification for all lots together does meet th
 ## Study Design: MechaCar vs Competition
 
 #### What metric or metrics are you going to test?
-- The metrics that will be tested in this study design would be MPG, cost, fuel efficiency, horse power and satefy of MechaCar against the competition.
+- The metrics that will be tested in this study design would be MPG, cost, fuel efficiency, horse power and satefy ratings of MechaCar against the competition. 
 
 #### What is the null hypothesis or alternative hypothesis?
-The null hypothesis is that would be that there is no difference in safety ratings between MechaCar and the competition and the alternative hypothesis is that there is a difference in the safety ratings between those two groups.
+- The null hypothesis is satefy ratings of MechaCar will have no difference and the mean of the saftey ratings will be zero. Alternative hypothesis will have difference in safety ratings between MechaCar and the competition and the mean of the safety ratings will not be zero. 
+
 #### What statistical test would you use to test the hypothesis? And why?
+
 
 #### What data is needed to run the statistical test?
 
