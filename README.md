@@ -58,7 +58,7 @@ and
 - The null hypothesis is satefy ratings of MechaCar will have no difference and the mean of the saftey ratings will be zero. Alternative hypothesis will have difference in safety ratings between MechaCar and the competition and the mean of the safety ratings will not be zero. 
 
 #### What statistical test would you use to test the hypothesis? And why?
-
+- By using mulitple regression model we can check which independent variables have a random or non-random amount of variance to the safety ratings of MechaCars and its competition. 
 
 #### What data is needed to run the statistical test?
-
+- The data of MPG, cost, fuel effiecncy, horse power and safety ratings of past sales. 
