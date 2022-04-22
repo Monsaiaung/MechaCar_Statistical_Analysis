@@ -35,7 +35,12 @@ As the overall data, the design specification for all lots together does meet th
 
 #### Across All Lot
 ![AcrossAllLot](https://github.com/Monsaiaung/MechaCar_Statistical_Analysis/blob/1b4f56cb9e04d3eb50164e424b6ad8af1bbd50bc/Images/5.png)
-
+#### Lot 1
+![Lot1](https://github.com/Monsaiaung/MechaCar_Statistical_Analysis/blob/79cf4461214ba1b3e82ce1e2f8c5da7cb07e8ed3/Images/6.png)
+#### Lot 2
+![Lot2](https://github.com/Monsaiaung/MechaCar_Statistical_Analysis/blob/79cf4461214ba1b3e82ce1e2f8c5da7cb07e8ed3/Images/7.png)
+#### Lot 3
+![Lot3](https://github.com/Monsaiaung/MechaCar_Statistical_Analysis/blob/79cf4461214ba1b3e82ce1e2f8c5da7cb07e8ed3/Images/8.png)
 
 
 
