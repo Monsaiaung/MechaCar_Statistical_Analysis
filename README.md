@@ -44,5 +44,10 @@ As the overall data, the design specification for all lots together does meet th
 
 ### Summary
 
+- The p-value of all lot has a value of 0.06 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
+- The p-value of lot 1 has a value of 1 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
+- The p-value of lot 2 has a value of 0.61 which is bigger than our assumed significance level of 0.05%. Therefore we will not reject the null hypothesis. 
+- The p-value of lot 3 has a value of 0.04 which is smaller than our assumed significance level of 0.05%. Therefore we will reject the null hypothesis. 
+
 
 
